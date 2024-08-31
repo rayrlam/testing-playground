@@ -4,7 +4,7 @@ Welcome to **TestingPlayground**! This repository is dedicated to showcasing tes
 
 ## Structure
 
-- `react-testing/` - Contains test cases and examples for testing React applications using Vitest.
+- `react-testing/` - Contains TypeScript test cases and examples for testing React applications using Vitest.
   
 Just focuses on a specific aspect of React testing, such as testing components and other essential functionalities.
 
