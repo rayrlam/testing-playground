@@ -1,6 +1,8 @@
 [submodule "react-testing"]
      path = react-testing
      url = https://github.com/rayrlam/react-testing-starter.git
+     branch = main
 [submodule "laravel-testing"]
 	path = laravel-testing
 	url = https://github.com/rayrlam/checkout.git
+        branch = master
