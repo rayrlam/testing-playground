@@ -6,3 +6,6 @@
 	path = laravel-testing
 	url = https://github.com/rayrlam/checkout.git
         branch = master
+[submodule "vue-testing"]
+	path = vue-testing
+	url = https://github.com/rayrlam/vue-testing.git
