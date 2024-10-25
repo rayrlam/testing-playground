@@ -11,7 +11,7 @@ Welcome to **TestingPlayground**! This repository is dedicated to showcasing tes
 The `react-testing` submodule within the `testing-playground` repository is a dedicated section focused on providing TypeScript test cases and examples for testing React applications. This submodule leverages the powerful Vitest testing framework and is designed to demonstrate best practices and essential techniques for testing various aspects of React components and functionalities.
 
 ## Laravel Testing Submodule
-![Laravel](https://img.shields.io/badge/Laravel-^11.23.5-blue)
+![Laravel](https://img.shields.io/badge/Laravel-^11.29.0-blue)
 ![PHP](https://img.shields.io/badge/PHP-^8.3.11-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
