@@ -18,7 +18,7 @@ The `react-testing` submodule within the `testing-playground` repository is a de
 The `laravel-testing` submodule within the `testing-playground` repository is focused on providing test cases and examples for testing Laravel applications. This submodule utilizes tools like Laravel Dusk for browser testing, showcasing how to effectively test various features and components in a Laravel environment.
 
 ## Vue Testing Submodule
-![Laravel](https://img.shields.io/badge/Laravel-^11.23.5-blue)
+![Laravel](https://img.shields.io/badge/Laravel-^11.29.0-blue)
 ![Vue](https://img.shields.io/badge/Vue-^3.5.7-yellow)
 ![Vitest](https://img.shields.io/badge/Vitest-^3.5.7-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
