@@ -15,7 +15,13 @@ The `react-testing` submodule within the `testing-playground` repository is a de
 ![PHP](https://img.shields.io/badge/PHP-^8.3.11-yellow)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-The `laravel-testing` submodule within the `testing-playground` repository is focused on providing test cases and examples for testing Laravel applications. This submodule utilizes tools like Laravel Dusk for browser testing, showcasing how to effectively test various features and components in a Laravel environment.
+The `laravel-testing` submodule within the `testing-playground` repository focuses on providing test cases and examples specifically for testing Laravel applications. These test cases are derived from my technical tests completed in 2022 and demonstrate effective strategies for testing various Laravel features and components. This submodule utilizes:
+
+- **PHPUnit** for backend and functional testing
+- **Laravel Dusk** for browser-based testing
+
+Together, these tools showcase a robust approach to testing in a Laravel environment, covering both backend logic and user interface interactions.
+
 
 ## Vue Testing Submodule
 ![Laravel](https://img.shields.io/badge/Laravel-^11.29.0-blue)
@@ -23,7 +29,14 @@ The `laravel-testing` submodule within the `testing-playground` repository is fo
 ![Vitest](https://img.shields.io/badge/Vitest-^3.5.7-purple)
 ![License](https://img.shields.io/badge/license-MIT-green)
 
-The `vue-testing` submodule within the `testing-playground` repository is a dedicated section focused on demonstrating Test-Driven Development (TDD) practices for Vue.js applications. This submodule utilizes the Vitest testing framework to showcase how to build Vue components and functionalities using a test-first approach.
+The `vue-testing` submodule within the `testing-playground` repository is dedicated to demonstrating Test-Driven Development (TDD) practices for Vue.js applications, specifically through building a **To-Do app**. This submodule employs multiple testing frameworks to ensure a comprehensive testing approach:
+
+- **Vitest** for unit and component testing of Vue components
+- **Playwright** for end-to-end testing across all modern browsers
+- **PHPUnit** for backend testing within the Laravel environment
+
+Together, these frameworks enable a robust test-first workflow that covers frontend and backend aspects of the To-Do app.
+
 
 # License
 
