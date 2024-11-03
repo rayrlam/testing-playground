@@ -24,7 +24,6 @@ The `laravel-testing` submodule within the `testing-playground` repository focus
 
 Together, these tools showcase a robust approach to testing in a Laravel environment, covering both backend logic and user interface interactions.
 
-
 ## Vue Testing Submodule
 ![Laravel](https://img.shields.io/badge/Laravel-^11.29.0-blue)
 ![Vue](https://img.shields.io/badge/Vue-^3.5.7-yellow)
@@ -39,6 +38,9 @@ The `vue-testing` submodule within the `testing-playground` repository is dedica
 
 Together, these frameworks enable a robust test-first workflow that covers frontend and backend aspects of the To-Do app.
 
+# Next Testing
+
+The `next-testing` submodule within the testing-playground repository is focused on demonstrating modern development practices for Next.js applications. This project aims to showcase the latest features of Next.js 15 while building a simple app.
 
 # License
 
