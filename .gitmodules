@@ -9,3 +9,6 @@
 [submodule "vue-testing"]
 	path = vue-testing
 	url = https://github.com/rayrlam/vue-testing.git
+[submodule "next-testing"]
+	path = next-testing
+	url = https://github.com/rayrlam/next-testing.git
