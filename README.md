@@ -39,6 +39,7 @@ The `vue-testing` submodule within the `testing-playground` repository is dedica
 Together, these frameworks enable a robust test-first workflow that covers frontend and backend aspects of the To-Do app.
 
 # Next Testing
+![Next](https://img.shields.io/badge/Next-^15.0.2-blue)
 
 The `next-testing` submodule within the testing-playground repository is focused on demonstrating modern development practices for Next.js applications. This project aims to showcase the latest features of Next.js 15 while building a simple app.
 
