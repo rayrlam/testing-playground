@@ -6,14 +6,16 @@ Welcome to **TestingPlayground**! This repository is dedicated to showcasing tes
 ## React Testing Submodule
 ![React](https://img.shields.io/badge/React-^18.2.0-blue)
 ![TypeScript](https://img.shields.io/badge/TypeScript-^5.2.2-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Vitest](https://img.shields.io/badge/Vitest-^2.0.5-purple)
+![Playwright](https://img.shields.io/badge/Playwright-^1.48.2-green)
 
-The `react-testing` submodule within the `testing-playground` repository is a dedicated section focused on providing TypeScript test cases and examples for testing React applications. This submodule leverages the powerful Vitest testing framework and is designed to demonstrate best practices and essential techniques for testing various aspects of React components and functionalities.
+The `react-testing` submodule within the `testing-playground` repository is dedicated to providing TypeScript test cases and examples specifically for testing React applications. This submodule utilizes the powerful Vitest testing framework along with Playwright, offering a comprehensive suite that demonstrates best practices and essential techniques for testing different aspects of React components and functionality. With Vitest and Playwright, the submodule covers both unit and end-to-end testing scenarios, making it a valuable resource for testing modern React applications.
 
 ## Laravel Testing Submodule
 ![Laravel](https://img.shields.io/badge/Laravel-^11.29.0-blue)
 ![PHP](https://img.shields.io/badge/PHP-^8.3.11-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-^10.5.36-purple)
+![Dusk](https://img.shields.io/badge/Dusk-^8.2.10-green)
 
 The `laravel-testing` submodule within the `testing-playground` repository focuses on providing test cases and examples specifically for testing Laravel applications. These test cases are derived from my technical tests completed in 2022 and demonstrate effective strategies for testing various Laravel features and components. This submodule utilizes:
 
@@ -27,7 +29,7 @@ Together, these tools showcase a robust approach to testing in a Laravel environ
 ![Laravel](https://img.shields.io/badge/Laravel-^11.29.0-blue)
 ![Vue](https://img.shields.io/badge/Vue-^3.5.7-yellow)
 ![Vitest](https://img.shields.io/badge/Vitest-^3.5.7-purple)
-![License](https://img.shields.io/badge/license-MIT-green)
+![Playwright](https://img.shields.io/badge/Playwright-^1.48.2-green)
 
 The `vue-testing` submodule within the `testing-playground` repository is dedicated to demonstrating Test-Driven Development (TDD) practices for Vue.js applications, specifically through building a **To-Do app**. This submodule employs multiple testing frameworks to ensure a comprehensive testing approach:
 
