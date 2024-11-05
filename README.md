@@ -40,6 +40,7 @@ Together, these frameworks enable a robust test-first workflow that covers front
 
 # Next Testing
 ![Next](https://img.shields.io/badge/Next-^15.0.2-blue)
+![Auth.js](https://img.shields.io/badge/Auth.js-^5.0.0-yellow)
 
 The `next-testing` submodule within the testing-playground repository is focused on demonstrating modern development practices for Next.js applications. This project aims to showcase the latest features of Next.js 15 while building a simple app.
 
