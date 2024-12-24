@@ -12,7 +12,7 @@ Welcome to **TestingPlayground**! This repository is dedicated to showcasing tes
 The `react-testing` submodule within the `testing-playground` repository is dedicated to providing TypeScript test cases and examples specifically for testing React applications. This submodule utilizes the powerful Vitest testing framework along with Playwright, offering a comprehensive suite that demonstrates best practices and essential techniques for testing different aspects of React components and functionality. With Vitest and Playwright, the submodule covers both unit and end-to-end testing scenarios, making it a valuable resource for testing modern React applications.
 
 ## Laravel Testing Submodule
-![Laravel](https://img.shields.io/badge/Laravel-^11.29.0-blue)
+![Laravel](https://img.shields.io/badge/Laravel-^11.36.1-blue)
 ![PHP](https://img.shields.io/badge/PHP-^8.3.11-yellow)
 ![PHPUnit](https://img.shields.io/badge/PHPUnit-^10.5.36-purple)
 ![Dusk](https://img.shields.io/badge/Dusk-^8.2.10-green)
