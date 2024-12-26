@@ -25,10 +25,11 @@ The `laravel-testing` submodule within the `testing-playground` repository focus
 Together, these tools showcase a robust approach to testing in a Laravel environment, covering both backend logic and user interface interactions.
 
 ## Vue Testing Submodule
-![Laravel](https://img.shields.io/badge/Laravel-^11.29.0-blue)
-![Vue](https://img.shields.io/badge/Vue-^3.5.7-yellow)
-![Vitest](https://img.shields.io/badge/Vitest-^3.5.7-purple)
-![Playwright](https://img.shields.io/badge/Playwright-^1.48.2-green)
+![Laravel](https://img.shields.io/badge/Laravel-^11.36.1-blue)
+![Vue](https://img.shields.io/badge/Vue-^3.5.12-yellow)
+![Vitest](https://img.shields.io/badge/Vitest-^2.1.2-purple)
+![Playwright](https://img.shields.io/badge/Playwright-^1.48.2-yellow)
+![PHPUnit](https://img.shields.io/badge/PHPUnit-^11.4.2-blue)
 
 The `vue-testing` submodule within the `testing-playground` repository is dedicated to demonstrating Test-Driven Development (TDD) practices for Vue.js applications, specifically through building a **To-Do app**. This submodule employs multiple testing frameworks to ensure a comprehensive testing approach:
 
